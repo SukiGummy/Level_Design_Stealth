@@ -4,13 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Vault
   - LedgeLimit
+  - Ledge
   - Ladder
-  - Enemy
-  - Metal
-  - Stone
-  - Wood
-  - Sand
+  - JumpDestination
+  - Teeter
+  - MovableGround
+  - Mantle
   layers:
   - Default
   - TransparentFX
@@ -25,13 +26,13 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Ragdoll
   - 
   - Character
   - Climb
-  - Short Climb
-  - Vault
   - Wall Run
+  - 
+  - 
   - 
   - 
   - 
