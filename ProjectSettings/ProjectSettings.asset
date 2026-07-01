@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 29
-  productGUID: 00000000000000000000000000000000
+  productGUID: d19505218fb1c084fbec74566d365b9a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -788,7 +788,7 @@ PlayerSettings:
   cloudProjectId: 4e869418-f05d-4606-a8e1-fd80f00bc7b6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Level Design_Stealth Level
   organizationId: legumball
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
