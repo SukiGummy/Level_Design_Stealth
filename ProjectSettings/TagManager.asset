@@ -4,14 +4,19 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Vault
-  - LedgeLimit
-  - Ledge
-  - Ladder
-  - JumpDestination
-  - Teeter
-  - MovableGround
-  - Mantle
+  - DeadZone
+  - Bullet
+  - Loop
+  - RagdollZone
+  - Grass
+  - Stone
+  - Tiles
+  - Skin
+  - Enemy
+  - Distractable
+  - CoverTrigger
+  - Vehicle
+  - Interactable
   layers:
   - Default
   - TransparentFX
@@ -21,16 +26,16 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - Ragdoll
-  - 
+  - Vehicle
   - Character
-  - Climb
-  - Wall Run
+  - Bullet
+  - Terrain
+  - VehicleMeshCollider
+  - VehicleWheel
+  - Item
+  - Bones
+  - Walls
+  - Trigger
   - 
   - 
   - 
