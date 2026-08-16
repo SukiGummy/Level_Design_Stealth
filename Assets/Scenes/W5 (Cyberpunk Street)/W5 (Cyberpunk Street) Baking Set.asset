@@ -64,11 +64,11 @@ MonoBehaviour:
         hasOnlyBiggerBricks: 0
     - position: {x: -2, y: 0, z: 1}
       index: 16
-      probeCount: 5312
+      probeCount: 7040
       minSubdiv: 0
       indexChunkCount: 91
       shChunkCount: 1
-      bricksCount: 83
+      bricksCount: 110
       indirectionEntryInfo:
       - positionInBricks: {x: -54, y: 0, z: 27}
         minSubdiv: 0
@@ -106,11 +106,11 @@ MonoBehaviour:
         hasOnlyBiggerBricks: 0
     - position: {x: -1, y: 0, z: 0}
       index: 5
-      probeCount: 203520
+      probeCount: 210752
       minSubdiv: 0
       indexChunkCount: 91
-      shChunkCount: 25
-      bricksCount: 3180
+      shChunkCount: 26
+      bricksCount: 3293
       indirectionEntryInfo:
       - positionInBricks: {x: -27, y: 0, z: 0}
         minSubdiv: 0
@@ -120,11 +120,11 @@ MonoBehaviour:
         hasOnlyBiggerBricks: 0
     - position: {x: -1, y: 0, z: 1}
       index: 17
-      probeCount: 149952
+      probeCount: 170880
       minSubdiv: 0
       indexChunkCount: 91
-      shChunkCount: 19
-      bricksCount: 2343
+      shChunkCount: 21
+      bricksCount: 2670
       indirectionEntryInfo:
       - positionInBricks: {x: -27, y: 0, z: 27}
         minSubdiv: 0
@@ -207,23 +207,23 @@ MonoBehaviour:
       - offset: 81920
         elementCount: 7
       - offset: 139264
-        elementCount: 25
-      - offset: 344064
-        elementCount: 19
-      - offset: 499712
+        elementCount: 26
+      - offset: 352256
+        elementCount: 21
+      - offset: 524288
         elementCount: 10
-      - offset: 581632
+      - offset: 606208
         elementCount: 8
-      - offset: 647168
+      - offset: 671744
         elementCount: 32
-      - offset: 909312
+      - offset: 933888
         elementCount: 11
     m_Asset: {fileID: 4900000, guid: ed05bb594f769db40af6ae8d9005beaf, type: 3}
   scenarios:
     m_Keys:
     - Default
     m_Values:
-    - sceneHash: 402112423
+    - sceneHash: 1520621896
       cellDataAsset:
         m_AssetGUID: 209992c012fcdf64eba6baf49e8e1f6f
         m_StreamableAssetPath: APVStreamingAssets\2a60053a504585642a16d4d75845a1a8\209992c012fcdf64eba6baf49e8e1f6f.bytes
@@ -240,16 +240,16 @@ MonoBehaviour:
           - offset: 1310720
             elementCount: 7
           - offset: 2228224
-            elementCount: 25
-          - offset: 5505024
-            elementCount: 19
-          - offset: 7995392
+            elementCount: 26
+          - offset: 5636096
+            elementCount: 21
+          - offset: 8388608
             elementCount: 10
-          - offset: 9306112
+          - offset: 9699328
             elementCount: 8
-          - offset: 10354688
+          - offset: 10747904
             elementCount: 32
-          - offset: 14548992
+          - offset: 14942208
             elementCount: 11
         m_Asset: {fileID: 4900000, guid: 209992c012fcdf64eba6baf49e8e1f6f, type: 3}
       cellOptionalDataAsset:
@@ -268,16 +268,16 @@ MonoBehaviour:
           - offset: 1310720
             elementCount: 7
           - offset: 2228224
-            elementCount: 25
-          - offset: 5505024
-            elementCount: 19
-          - offset: 7995392
+            elementCount: 26
+          - offset: 5636096
+            elementCount: 21
+          - offset: 8388608
             elementCount: 10
-          - offset: 9306112
+          - offset: 9699328
             elementCount: 8
-          - offset: 10354688
+          - offset: 10747904
             elementCount: 32
-          - offset: 14548992
+          - offset: 14942208
             elementCount: 11
         m_Asset: {fileID: 4900000, guid: 5cd14d63eafb57442815995516857e6e, type: 3}
       cellProbeOcclusionDataAsset:
@@ -296,16 +296,16 @@ MonoBehaviour:
           - offset: 327680
             elementCount: 7
           - offset: 557056
-            elementCount: 25
-          - offset: 1376256
-            elementCount: 19
-          - offset: 1998848
+            elementCount: 26
+          - offset: 1409024
+            elementCount: 21
+          - offset: 2097152
             elementCount: 10
-          - offset: 2326528
+          - offset: 2424832
             elementCount: 8
-          - offset: 2588672
+          - offset: 2686976
             elementCount: 32
-          - offset: 3637248
+          - offset: 3735552
             elementCount: 11
         m_Asset: {fileID: 4900000, guid: 609b3d2064773f4488939fe8cc94c435, type: 3}
   cellBricksDataAsset:
@@ -318,22 +318,22 @@ MonoBehaviour:
       - offset: 0
         elementCount: 7
       - offset: 112
-        elementCount: 83
-      - offset: 1440
+        elementCount: 110
+      - offset: 1872
         elementCount: 911
-      - offset: 16016
+      - offset: 16448
         elementCount: 833
-      - offset: 29344
-        elementCount: 3180
-      - offset: 80224
-        elementCount: 2343
-      - offset: 117712
+      - offset: 29776
+        elementCount: 3293
+      - offset: 82464
+        elementCount: 2670
+      - offset: 125184
         elementCount: 1193
-      - offset: 136800
+      - offset: 144272
         elementCount: 945
-      - offset: 151920
+      - offset: 159392
         elementCount: 4001
-      - offset: 215936
+      - offset: 223408
         elementCount: 1330
     m_Asset: {fileID: 4900000, guid: e64d9e16e28c06f4fa3499ce2071a5f2, type: 3}
   cellSupportDataAsset:
@@ -352,16 +352,16 @@ MonoBehaviour:
       - offset: 2621440
         elementCount: 7
       - offset: 4456448
-        elementCount: 25
-      - offset: 11010048
-        elementCount: 19
-      - offset: 15990784
+        elementCount: 26
+      - offset: 11272192
+        elementCount: 21
+      - offset: 16777216
         elementCount: 10
-      - offset: 18612224
+      - offset: 19398656
         elementCount: 8
-      - offset: 20709376
+      - offset: 21495808
         elementCount: 32
-      - offset: 29097984
+      - offset: 29884416
         elementCount: 11
     m_Asset: {fileID: 4900000, guid: fba0637ca61ca99409be5c543df40401, type: 3}
   chunkSizeInBricks: 128
