@@ -1,0 +1,26 @@
+﻿<Solution>
+  <Project Path="DiasGames.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="DiasGames.ClimbingSystem.Abilities.csproj" />
+  <Project Path="DiasGames.ClimbingSystem.Command.csproj" />
+  <Project Path="DiasGames.AbilitySystem.Core.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="DiasGames.Components.csproj" />
+  <Project Path="DiasGames.Debugging.csproj" />
+  <Project Path="DiasGames.AbilitySystem.Effects.csproj" />
+  <Project Path="DiasGames.AbilitySystem.Abilities.csproj" />
+  <Project Path="DiasGames.Puzzle.csproj" />
+  <Project Path="DiasGames.Command.csproj" />
+  <Project Path="EditModeTests.csproj" />
+  <Project Path="DiasGames.ClimbingSystem.csproj" />
+  <Project Path="DiasGames.ClimbingSystem.Components.csproj" />
+  <Project Path="DiasGames.Editor.csproj" />
+  <Project Path="DiasGames.PlayModeTests.csproj" />
+  <Project Path="DiasGames.Controller.csproj" />
+  <Project Path="DiasGames.AbilitySystem.Editor.csproj" />
+  <Project Path="DiasGames.UI.csproj" />
+  <Project Path="DiasGames.Animation.csproj" />
+  <Project Path="DiasGames.ClimbingSystem.Editors.csproj" />
+  <Project Path="DiasGames.Trigger.csproj" />
+  <Project Path="DiasGames.ClimbingSystem.Controller.csproj" />
+</Solution>
