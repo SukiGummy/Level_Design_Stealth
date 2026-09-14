@@ -134,11 +134,11 @@ MonoBehaviour:
         hasOnlyBiggerBricks: 0
     - position: {x: -1, y: -1, z: -1}
       index: 13
-      probeCount: 28160
+      probeCount: 28992
       minSubdiv: 0
       indexChunkCount: 91
       shChunkCount: 4
-      bricksCount: 440
+      bricksCount: 453
       indirectionEntryInfo:
       - positionInBricks: {x: -27, y: -27, z: -27}
         minSubdiv: 0
@@ -176,11 +176,11 @@ MonoBehaviour:
         hasOnlyBiggerBricks: 0
     - position: {x: -1, y: 0, z: -1}
       index: 17
-      probeCount: 115008
+      probeCount: 115456
       minSubdiv: 0
       indexChunkCount: 91
       shChunkCount: 15
-      bricksCount: 1797
+      bricksCount: 1804
       indirectionEntryInfo:
       - positionInBricks: {x: -27, y: 0, z: -27}
         minSubdiv: 0
@@ -319,7 +319,7 @@ MonoBehaviour:
     m_Keys:
     - Default
     m_Values:
-    - sceneHash: -653795246
+    - sceneHash: -1751609049
       cellDataAsset:
         m_AssetGUID: 0a827c9365bc2684b82173ba2c253b3c
         m_StreamableAssetPath: APVStreamingAssets\438a54eb9018ed844a57df42bb048019\0a827c9365bc2684b82173ba2c253b3c.bytes
@@ -460,24 +460,24 @@ MonoBehaviour:
       - offset: 74752
         elementCount: 2026
       - offset: 107168
-        elementCount: 440
-      - offset: 114208
+        elementCount: 453
+      - offset: 114416
         elementCount: 33
-      - offset: 114736
+      - offset: 114944
         elementCount: 1039
-      - offset: 131360
-        elementCount: 1797
-      - offset: 160112
+      - offset: 131568
+        elementCount: 1804
+      - offset: 160432
         elementCount: 1930
-      - offset: 190992
+      - offset: 191312
         elementCount: 219
-      - offset: 194496
+      - offset: 194816
         elementCount: 30
-      - offset: 194976
+      - offset: 195296
         elementCount: 661
-      - offset: 205552
+      - offset: 205872
         elementCount: 651
-      - offset: 215968
+      - offset: 216288
         elementCount: 1357
     m_Asset: {fileID: 4900000, guid: daf87aedd51e3d741b4392b6273738f7, type: 3}
   cellSupportDataAsset:
